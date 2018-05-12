@@ -1,0 +1,1 @@
+{"version":3,"sources":["script.js"],"names":[],"mappings":";;AAAA,IAAM,MAAM,CAAC,CAAD,EAAI,CAAJ,EAAO,CAAP,CAAZ;AACA,IAAM,KAAK,SAAL,EAAK;AAAA,SAAQ,QAAQ,GAAR,CAAY,IAAZ,CAAR;AAAA,CAAX;AACA,IAAI,GAAJ,CAAQ;AAAA,SAAQ,OAAO,IAAf;AAAA,CAAR","file":"dist.js","sourcesContent":["const arr = [1, 2, 3]\nconst fn = item => console.log(item)\narr.map(item => item * item)\n"]}
